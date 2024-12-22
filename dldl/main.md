@@ -355,7 +355,7 @@ Arbeit nötig wäre, um weitere solcher Listen ‒ für andere Themen oder
 für andere Sprachen ‒ zu erstellen. Etwas, was grundsätzlich zu
 begrüssen wäre. (ks)
 
-## 2.2 Inklusion und Safe Spaces
+#### 2.2 Inklusion und Safe Spaces
 
 Rondinelli, Morgan (2024). *What\'s Missing in Conversations about
 Libraries and Mental Illness*. In: In the Library with the Lead Pipe,
@@ -464,7 +464,7 @@ Burnout in der US-amerikanischen Bevölkerung verorten. Und sie liessen
 sich in Zukunft auch besser nachnutzen. In diesem Sinne ist die Studie
 vorbildhaft. (ks)
 
-## 2.3 Forschungsdaten
+#### 2.3 Forschungsdaten
 
 Irene V. Pasquetto, Zoë Cullen, Andrea Thomer, Morgan Wofford, (2024):
 *What is research data "misuse"? And how can it be prevented or
@@ -570,7 +570,7 @@ transparenten Sichtbarmachung der eigenen Forschung für die Peers. In
 Brasilien ist dies offenbar weitgehend durch ein Angebot entsprechender
 Datenrepositorien abgesichert. (bk)
 
-## 2.4 Open Access
+#### 2.4 Open Access
 
 Alfred Früh ; Rika Koch (2024): *Ein neuer Blick auf Open Access:
 Wissenschaftliches Publizieren aus Sicht. des öffentlichen
@@ -643,7 +643,7 @@ Ausland." Eine Fortsetzung der Forschung ist mehr als wünschenswert und
 zeigt einmal mehr die Bedeutung der Kostentransparenz im
 wissenschaftlichen Publikationswesen auf. (mk)
 
-## 2.5 Bestandserhaltung
+#### 2.5 Bestandserhaltung
 
 Pasqui, Valdo (2024): *Digital Curation and Long-Term Digital
 Preservation in Libraries*. In: JLIS.It 15 (1):109--125,
@@ -673,9 +673,9 @@ gesichert sind. Weiterhin behandelt der Aufsatz Fragen der Infrastruktur
 und der Infrastrukturökonomie für die digitale Langzeitarchivierung.
 (bk)
 
-# 3. Monographien und Buchkapitel
+### 3. Monographien und Buchkapitel
 
-## 3.1 Vermischte Themen
+#### 3.1 Vermischte Themen
 
 Adolpho, Kalani Keahi ; Krueger, Stephen G. ; McCracken, Krista (edit.)
 (2023). *Trans and Gender Diverse Voices in Libraries*. (Series of
@@ -915,7 +915,7 @@ gleichzeitig fehlt dadurch ein umfassendes Konzept, mit dem eine
 konkrete Frage ‒ zu erwarten wäre die im Titel des Buches genannte "Wie
 Provenienzforschung die Bibliotheken verändert" ‒ bearbeitet würde. (ks)
 
-## 3.2 Bibliotheks- und Buchgeschichte
+#### 3.2 Bibliotheks- und Buchgeschichte
 
 Röhner, Barbara (2016). *Von Reproduktionsausstellungen zum Bildverleih:
 Ideen- und Entwicklungsgeschicht von Artotheken in der DDR.* (Hallesche
@@ -1410,11 +1410,11 @@ Weltverachtung", beschrieben werden -- selbst, wenn er eigentlich gegen
 diese theologische Tradition und aus ökologischen Gründen für ein
 aktives Handeln in der Welt argumentiert. (ks)
 
-# 4. Weitere wissenschaftliche Medien (Konferenzberichte, Abschlussarbeiten)
+### 4. Weitere wissenschaftliche Medien (Konferenzberichte, Abschlussarbeiten)
 
 \[Diesmal keine Beiträge\]
 
-# 5. Populäre Medien (Social Media, Zeitungen, Radio, TV)
+### 5. Populäre Medien (Social Media, Zeitungen, Radio, TV)
 
 Kehlmann, Daniel (2024). *"Wir fühlen nicht, was wir doch wissen" -- Die
 Politik muss die Schöpfungskraft der Kunst, sie muss die demokratische
@@ -1538,7 +1538,7 @@ bestimmte Regelungen und Entscheidungen von Archiven wahrnehmen --
 nämlich nicht unbedingt positiv, selbst wenn der Autor am Ende sein Ziel
 erreichte. (ks)
 
-# 6. Weitere Medien
+### 6. Weitere Medien
 
 Bemme, Jens (2024). *Zehn einfache Regeln für grafische
 Zusammenfassungen*. In: Blog SLUB Open Science Labs, 28.10.2024,
